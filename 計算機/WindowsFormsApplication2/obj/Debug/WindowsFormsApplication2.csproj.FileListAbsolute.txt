@@ -1,0 +1,38 @@
+C:\Users\tcumi_H505\Desktop\105316112\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\tcumi_H505\Desktop\105316112\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\tcumi_H505\Desktop\105316112\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\tcumi_H505\Desktop\105316112\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\tcumi_H505\Desktop\105316112\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\tcumi_H505\Desktop\105316112\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\tcumi_H505\Desktop\105316112\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\tcumi_H505\Desktop\105316112\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+H:\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+H:\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+H:\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+H:\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+H:\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+H:\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+H:\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+H:\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+H:\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\新增資料夾 (2)\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\新增資料夾 (2)\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\新增資料夾 (2)\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\新增資料夾 (2)\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\新增資料夾 (2)\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\新增資料夾 (2)\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\新增資料夾 (2)\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\新增資料夾 (2)\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\新增資料夾 (2)\視窗程式設計\0220\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\新增資料夾 (2)\視窗程式設計\0220\計算機\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\新增資料夾 (2)\視窗程式設計\0220\計算機\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\新增資料夾 (2)\視窗程式設計\0220\計算機\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\coding整理\C#\計算機\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\coding整理\C#\計算機\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\coding整理\C#\計算機\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\coding整理\C#\計算機\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\coding整理\C#\計算機\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\coding整理\C#\計算機\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\coding整理\C#\計算機\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\coding整理\C#\計算機\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\coding整理\C#\計算機\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache

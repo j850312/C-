@@ -1,0 +1,3 @@
+E:\coding整理\C#\計算機\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\coding整理\C#\計算機\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\coding整理\C#\計算機\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
